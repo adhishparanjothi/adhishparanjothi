@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adhishparanjothi
 - 👀 I’m interested in AR/VR/MR
-- 🌱 I’m currently learning Unity 3D
-- 💞️ I’m looking to collaborate on Augmented reality and mixed reality projects
+- 🌱 I’m currently learning and building projects with Unity engine.
+- 💞️ I’m looking to collaborate on gaming and industrial projects based on Augmented reality and mixed reality.
 - 📫 How to reach me Insta/fb/twitter : adhishparanjothi
 
 <!---
